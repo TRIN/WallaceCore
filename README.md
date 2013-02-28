@@ -11,18 +11,18 @@ In this repository:
 
 As of 2003-02-28, this is very much an incomplete work-in-progress.
 ### TODO
- [x] Share Foswiki raw topic data
- [x] CSV export terms
- [x] CSV export term attributes
- [x] CSV export term relationships
- [ ] CSV export term relationship mapping scheme
- [ ] CSV export namespaces
- [ ] incorporate namespace examples (where copyright/license allows)
- [ ] CSV export example profile data/TPT profiles (if deemed necessary)
- [ ] CSV export term groupings (is this separate to the term export?)
- [ ] Munge up a graph of everything in graphviz/dot
- [ ] Munge up a graph of everything in RDF
- [ ] Convert interesting Taxon Profile technical content over to markdown format to be curated on github.org
+- [x] Share Foswiki raw topic data
+- [x] CSV export terms
+- [x] CSV export term attributes
+- [x] CSV export term relationships
+- [ ] CSV export term relationship mapping scheme
+- [ ] CSV export namespaces
+- [ ] incorporate namespace examples (where copyright/license allows)
+- [ ] CSV export example profile data/TPT profiles (if deemed necessary)
+- [ ] CSV export term groupings (is this separate to the term export?)
+- [ ] Munge up a graph of everything in graphviz/dot
+- [ ] Munge up a graph of everything in RDF
+- [ ] Convert interesting Taxon Profile technical content over to markdown format to be curated on github.org
 
 *From <http://trin.org.au/TaxonProfile/Definitions/WC>*
 
